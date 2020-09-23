@@ -1,1 +1,0 @@
-dinosaurs = ["Velociraptor", "Stegosaurus", "Pteradactyl", "Ankylosaur"]
